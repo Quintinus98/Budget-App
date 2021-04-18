@@ -187,8 +187,6 @@ different budget categories like Food, Clothing and Entertainment.
             df.to_csv(file_path, index=False)
             main()
 
-        pass
-
 
 def main():
     Budget()
